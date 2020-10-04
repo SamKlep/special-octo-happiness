@@ -13,7 +13,7 @@ dotenv.config({ path: './config/config.env' });
 // Connect to database
 connectDB();
 
-// Route filess
+// Route files
 const strains = require('./routes/strains');
 
 const app = express();
