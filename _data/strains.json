@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "name": "A-train",
+    "type": "Hybrid",
+    "description": "A-Train is a hybrid cross between Mazar I Sharif and the clone-only Arcata e-32 Trainwreck. This hybrid gives you the classic stoned feeling, imbuing the mind and body with warm euphoria. Be ready for smiles and munchies when you jump on the A-Train.",
+    "thc": "19",
+    "terpenes": "Peppery, Citrus, Herbal",
+    "effects": "happy, uplifted, euphoric, creative, energetic",
+    "similar": "Sour Diesel",
+    "photo": "no-image.jpeg",
+    "parent": "Mexican"
+  },
+  {
+    "_id": "5d713978d531c3bb38c1f5d0",
+
+    "name": "Acapulco Gold",
+    "type": "Sativa",
+    "description": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant. This strain comes from the area in and around Acapulco, Mexico, and its orange hairs resemble a gold nugget, with gold, green, and brown colors and plenty of resin on the buds. An aroma of burnt toffee lingers when the bud is broken up. Acapulco Gold has a reputation for being one of the best cannabis strains ever created, and it's becoming more difficult to find.",
+    "thc": "18.5",
+    "terpenes": "No data yet",
+    "effects": "Great",
+    "similar": "Green Crack",
+    "photo": "no-image.jpeg",
+    "parent": "Trainwreck, Mazar I Shafir"
+  },
+  {
+    "_id": "4d79f678d58736bbf6c1f598",
+
+    "name": "Acid Dough",
+    "type": "Hybrid",
+    "description": "Grab your vinyl, its a snarky one.",
+    "thc": "20",
+    "terpenes": "No data yet",
+    "effects": "Good",
+    "similar": "Grandpas Special",
+    "photo": "no-image.jpeg",
+    "parent": "OG Kush"
+  }
+]
